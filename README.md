@@ -1,2 +1,2 @@
 # yt-membercheck
-member counting with crosschecking idk lol
+placeholder for now
